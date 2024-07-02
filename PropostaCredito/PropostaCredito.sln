@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropostaCredito", "PropostaCredito\PropostaCredito.csproj", "{FB5C491D-7E1E-4D8C-92C3-0F0C59B0DBB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB5C491D-7E1E-4D8C-92C3-0F0C59B0DBB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5C491D-7E1E-4D8C-92C3-0F0C59B0DBB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5C491D-7E1E-4D8C-92C3-0F0C59B0DBB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5C491D-7E1E-4D8C-92C3-0F0C59B0DBB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F1EED3D-3D3D-4F22-BFE7-00FA22EF93A7}
+	EndGlobalSection
+EndGlobal
