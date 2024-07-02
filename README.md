@@ -22,7 +22,7 @@ Para testar, pode-se usar o swagger aberto pelo Clientes, ou realizar uma chamad
 
 Exemplo de requisição:
 
-ˋˋˋ
+'''
 curl --location 'http://localhost:5127/cliente/cadastro' \
 --header 'Content-Type: application/json' \
 --data '{
@@ -30,4 +30,4 @@ curl --location 'http://localhost:5127/cliente/cadastro' \
     "cpf": "1234567890",
     "nascimento": "2000-10-28"
 }'
-ˋˋˋ
+'''
